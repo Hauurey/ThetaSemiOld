@@ -1,0 +1,12 @@
+[14:53]: Motion Detected
+[14:53]: Face Detected: Carlo
+[14:54]: Motion Detected
+[14:54]: Face Detected: Carlo
+[14:57]: Motion Detected
+[14:57]: Face Detected: Carlo
+[14:57]: Face Detected: Unknown
+[14:57]: Motion Detected
+[14:57]: Face Detected: Carlo
+[14:57]: Motion Detected
+[14:57]: Face Detected: Unknown
+[14:57]: Motion Detected
